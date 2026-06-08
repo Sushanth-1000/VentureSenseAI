@@ -1,3 +1,13 @@
+---
+title: VentureSense AI
+emoji: 🔮
+colorFrom: indigo
+colorTo: purple
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # VentureSense AI - Startup Idea Validation Platform
 
 VentureSense AI is a comprehensive, AI-powered platform designed to stress-test and validate startup ideas through intelligent market analysis, competitor intelligence, multi-dimensional risk assessment, and strategic Go/No-Go advisory.
